@@ -1,2 +1,7 @@
-# Stock_Market_Prediction
-Stock market prediction web app using Random Forest and Prophet algorithms. Features: Auto data fetching (yfinance), technical indicators (EMA/MACD/RSI), multi-timeframe forecasting, real-time news (Finnhub API), interactive charts (Plotly), and model persistence. Built with Streamlit, scikit-learn, and pandas.
+1) create virtual environment
+    python -m venv venv
+2) activate env
+    venv\Scripts\activate
+3) install dependencies
+    pip install -r requirements.txt
+   
